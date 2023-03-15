@@ -1,0 +1,32 @@
+h3{
+    color: blue;
+}
+p{
+
+    color: hsl(194, 100%, 24%);
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{align-items: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+ color: rgb(60, 255, 0);
+ margin-left:  450px;
+ margin-right: 450px;
+ width:100px;
+ height: 50px;
+ border: 2px solid white;   
+ background-color: blue;
+ color: brown;
+ cursor: pointer;
+}
+body{
+    background-color: aqua;
+}
+img {
+    width: 300px;
+    height: 300px;
+    margin-left: 470px;
+    margin-right: 470px;
+}
